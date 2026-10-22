@@ -27,7 +27,7 @@ Applied the DENCLUE density-based clustering algorithm to group regencies and ci
 - Implemented density-based clustering using R.
 - Evaluated clustering results and interpreted the resulting groups.
 
-**Repository:** To be added.
+**Repository:** [Poverty Indicator Clustering Using DENCLUE](Jurnal Gaussian 1.pdf).
 
 ### 2. Loviso — Location Advisor
 
